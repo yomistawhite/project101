@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="d?Ed_@uHIr+7$uN-SqfA">A</variable></variables><block type="variables_set" id="Ry[Rfs4l$7[0CxCE*EJu" disabled="true" x="20" y="-184"><field name="VAR" id="d?Ed_@uHIr+7$uN-SqfA">A</field><value name="VALUE"><shadow type="math_number" id="72tN2$3PpS:za*9#FPuB" disabled="true"><field name="NUM">70</field></shadow></value></block><block type="device_button_event" id="BIIY$:UPWFecI/43Ra%$" x="321" y="-175"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_play_note" id="m(crUz1C.30z}2}~?;7("><value name="note"><shadow type="device_note" id="O!z6Cy9:puB5}akQ$7OC"><field name="name">69</field></shadow></value><value name="duration"><shadow type="device_beat" id="`7xuZ0}oXKpBW2*V8!^V"><field name="fraction">BeatFraction.Breve</field></shadow></value></block></statement></block><block type="pxt-on-start" id="?!#^VF(Z/2mK*19Ua#jk" x="0" y="0"></block><block type="device_forever" id="ia*g3{pzq+gMwvZCTwaH" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="wInI6-Hg|#y:;#mt8e~s"><field name="LEDS">`
+        # # # # # 
+        # # . # # 
+        # . # . # 
+        # # . # # 
+        # # # # #
+        `</field></block></statement></block><block type="game_create_sprite" id="NCRxxxKZ1ZE72$A-U](x" disabled="true" x="27" y="333"><value name="x"><shadow type="math_number" id="@2U!$otVY~P0pjnwMw]J" disabled="true"><field name="NUM">0</field></shadow></value><value name="y"><shadow type="math_number" id="[g77;GGUeOkV%VHswltY" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="device_build_big_image" id="uYSi]T4TgK}adx[_3bc:" disabled="true" x="-34" y="399"><field name="LEDS">`
+        # . # . # . # . # . 
+        . # . # . # . # . # 
+        # . # . # . # . # . 
+        . # . # . # . # . # 
+        # . # . # . # . # .
+        `</field></block></xml>
